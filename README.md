@@ -7,7 +7,7 @@
 - TextInputs
 - Pull to refresh
 - Section List
-- Modal Screen
+- Modal
 - Infinite Scroll
 - Slides
-- Theme
+- Themes
